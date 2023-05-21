@@ -1,0 +1,15 @@
+{
+  "name": "Phat",
+  "key": {
+    "key1": "aa",
+    "key2": {
+      "key21": {
+        "k223": "sss"
+      }
+    }
+  },
+  "JsonObject": {
+    "key": 1,
+    "bb": 222
+  }
+}
